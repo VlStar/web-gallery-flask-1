@@ -15,3 +15,15 @@
 ```bash
 git clone https://github.com/ваш-логин/web-gallery-flask.git
 cd web-gallery-flask
+├── README.md
+├── app.py
+├── requirements.txt
+├── .gitignore
+├── favorites.json
+├── templates/
+│ └── index.html
+└── static/
+├── css/
+│ └── styles.css
+└── iMAGE/
+└── (ваши изображения)
